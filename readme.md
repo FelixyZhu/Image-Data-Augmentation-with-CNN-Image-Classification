@@ -2,7 +2,7 @@
 
 #### Mini Project for COMP7250 Machine Learning
 
-Author: ZHU Qinghui
+Author: Felix Zhu
 
 Institution: Hong Kong Baptist University
 
