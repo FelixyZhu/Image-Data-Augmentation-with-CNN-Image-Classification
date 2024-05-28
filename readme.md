@@ -18,8 +18,8 @@ The results involve training process (training loss, training accuracy, validati
 
 
 
-![84821aeb-2b5e-4b57-983c-2f13a8cdb637](.\pics\84821aeb-2b5e-4b57-983c-2f13a8cdb637.png)
+![image]([.\pics\84821aeb-2b5e-4b57-983c-2f13a8cdb637.png](https://github.com/FelixyZhu/Image-Data-Augmentation-with-CNN-Image-Classification/blob/master/pics/84821aeb-2b5e-4b57-983c-2f13a8cdb637.png))
 
-![b451461e-f2d4-4fd1-884a-7fea825389d9](.\pics\b451461e-f2d4-4fd1-884a-7fea825389d9.png)
-
-![fffa0887-6873-47a6-b842-e9a8a6ffca40](.\pics\fffa0887-6873-47a6-b842-e9a8a6ffca40.png)
+![image]([.\pics\b451461e-f2d4-4fd1-884a-7fea825389d9.png](https://github.com/FelixyZhu/Image-Data-Augmentation-with-CNN-Image-Classification/blob/master/pics/b451461e-f2d4-4fd1-884a-7fea825389d9.png))
++
+![image]([.\pics\fffa0887-6873-47a6-b842-e9a8a6ffca40.png](https://github.com/FelixyZhu/Image-Data-Augmentation-with-CNN-Image-Classification/blob/master/pics/fffa0887-6873-47a6-b842-e9a8a6ffca40.png))
