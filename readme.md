@@ -32,3 +32,6 @@ The results involve training process (training loss, training accuracy, validati
 ![image](https://github.com/FelixyZhu/Image-Data-Augmentation-with-CNN-Image-Classification/blob/master/pics/b451461e-f2d4-4fd1-884a-7fea825389d9.png?raw=true)
 
 ![image](https://github.com/FelixyZhu/Image-Data-Augmentation-with-CNN-Image-Classification/blob/master/pics/fffa0887-6873-47a6-b842-e9a8a6ffca40.png?raw=true)
+
+
+Stars are welcome and appreciated! Feel free to pull requests for any code suggestions, or contact me by email: felix5196@outlook.com if I am not capable to check the requests.
