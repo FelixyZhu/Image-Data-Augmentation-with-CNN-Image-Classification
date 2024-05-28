@@ -12,14 +12,15 @@ The project is constructed based on Jupyter Notebook, concentrating on how image
 
 Run through main.ipynb to regenerate the results. GPU acceleration congiuration:(find the libraries' version in *requirements.txt*)
 
-| Python                           | 3.9.19                           |
+|||
 | -------------------------------- | -------------------------------- |
+| Python                           | 3.9.19                           |
 | GPU                              | RTX3060 Laptop                   |
 | NVIDIA-SMI                       | 555.85                           |
 | Driver Version                   | 555.85                           |
 | CUDA Version (supported version) | 12.5                             |
 | CUDA Compilation tools           | 11.2 |
-
+|||
 
 
 The results involve training process (training loss, training accuracy, validation loss, validation accuracy), loss-epoch plot and accuracy-epoch plot, prediction reports, confusion matrices and prediction visualizations, e.g.:
